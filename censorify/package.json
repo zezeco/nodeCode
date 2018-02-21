@@ -1,0 +1,11 @@
+{
+ "author": "Julio Co",
+ "name": "censorify",
+ "version": "0.1.1",
+ "description": "Censors words out of text",
+ "main": "censortext.js",
+ "dependencies": {},
+ "engines": {
+ "node": "*"
+ }
+}
